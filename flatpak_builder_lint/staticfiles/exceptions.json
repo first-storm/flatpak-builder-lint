@@ -5495,6 +5495,11 @@
             "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
         }
     },
+    "net.huangyuhui.hmcl": {
+        "stable": {
+            "finish-args-contains-both-x11-and-wayland": "Javafx doesn't have good wayland support for now and some Minecraft build have Wayland support."
+        }
+    },
     "net.imaginaryinfinity.Squiid": {
         "stable": {
             "finish-args-not-defined": "Is a command line application"
